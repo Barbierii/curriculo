@@ -1,0 +1,19 @@
+.progress{
+    margin-bottom: 1%;
+}
+.container-fluid{
+    
+    padding: 1%;
+    display: flex;
+    background-color: rgb(157, 157, 202);
+    text-align: center;
+}
+.text-justify{
+    width: 50%;
+    padding: 2%;
+    font-size: large;
+    color: rgb(0, 0, 0);
+    }
+.botao{
+    padding: 2%;
+}
